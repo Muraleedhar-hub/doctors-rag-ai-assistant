@@ -226,6 +226,7 @@ src/main/java/com/example/doctorrag/
 │   └── DoctorRepository.java       # Spring Data JPA
 └── service/
     ├── RagService.java               # Core RAG pipeline
+    |   └── ToolService.java          # Tools
     └── DoctorService.java          # CRUD helpers
 ```
 
