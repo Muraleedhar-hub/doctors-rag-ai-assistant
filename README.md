@@ -4,15 +4,29 @@ A complete Retrieval-Augmented Generation (RAG) application built with **Spring 
 
 ---
 
-<img width="1915" height="1062" alt="image" src="https://github.com/user-attachments/assets/03eac994-db6f-4757-b3f3-7fb73ef1ccd6" />
+Application : www.dctrs-assist.online
 
-<img width="1902" height="1057" alt="image" src="https://github.com/user-attachments/assets/aa380098-d3e6-47cb-bcb3-20dd33785266" />
+<img width="1917" height="965" alt="image" src="https://github.com/user-attachments/assets/40643273-8477-4a60-a980-b5ba97f85369" />
 
+<img width="1912" height="952" alt="image" src="https://github.com/user-attachments/assets/05e54819-760a-4925-8397-c374c14f999e" />
 
-<img width="1912" height="1062" alt="image" src="https://github.com/user-attachments/assets/f40c9cb4-d0eb-49a3-a7a0-03b4d6323cff" />
+<img width="1912" height="967" alt="image" src="https://github.com/user-attachments/assets/520853ee-462a-44be-a606-8d04cbc48fff" />
 
-<img width="1912" height="1066" alt="image" src="https://github.com/user-attachments/assets/31810a35-9051-46e5-9954-fb4912b540bf" />
+<img width="1902" height="967" alt="image" src="https://github.com/user-attachments/assets/e01691d0-b55e-498b-9590-f87edc4acb8e" />
 
+<img width="1896" height="970" alt="image" src="https://github.com/user-attachments/assets/147925f0-57d4-4892-bc61-dc8e795b7a2c" />
+
+<img width="1907" height="901" alt="image" src="https://github.com/user-attachments/assets/9875763b-90cd-421b-a80e-78ae571899a0" />
+
+<img width="1905" height="967" alt="image" src="https://github.com/user-attachments/assets/d4aab228-be9b-42fc-829e-b49681962f2a" />
+
+<img width="1906" height="961" alt="image" src="https://github.com/user-attachments/assets/ba57d0eb-d967-4c85-bf87-898ddf529350" />
+
+<img width="1902" height="912" alt="image" src="https://github.com/user-attachments/assets/2d2a46f5-d469-4ffc-899c-10c467166875" />
+
+<img width="1912" height="907" alt="image" src="https://github.com/user-attachments/assets/a187e6b5-d001-4c21-82a5-2555f8442338" />
+
+<img width="895" height="722" alt="image" src="https://github.com/user-attachments/assets/5df47c7a-c6a7-4787-bd00-7bbf339d61bb" />
 
 
 ## Architecture
